@@ -29,8 +29,8 @@ Hold MODE while powering on to enter calibration mode
 
 Probe output 1 with a multimeter and finetune the output using knobs 1 and 2 until the output reads **2.5v**
 
-Knob 1 (coarse) adjusts over a range of ~1v
-Knob 2 (fine) adjusts over a range of ~0.1v
++ Knob 1 (coarse) adjusts over a range of ~1v
++ Knob 2 (fine) adjusts over a range of ~0.1v
 
 Repeat with output 2 using knobs 3 & 4
 
